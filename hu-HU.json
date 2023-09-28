@@ -36,6 +36,11 @@
 	"SEARCH_NO_RESULTS": "Nincs találat",
 	"SEARCH_EXPLANATION_CONTENT": "Keressen filmeket, sorozatokat, YouTube- és TV-csatornákat",
 	"SEARCH_EXPLANATION_PEOPLE": "Színészek, rendezők és írók keresése",
+	"SEARCH_HINTS_TITLE": "You can search anything...",
+	"SEARCH_HINTS_CONTENT": "Movies, Series, YouTube & TV",
+	"SEARCH_HINTS_ACTORS": "Actors, Directors & Writers",
+	"SEARCH_HINTS_LINKS": "HTTP & Magnet Links",
+	"SEARCH_HINTS_IMDB": "IMDB /TVDB links",
 	"SEARCH_PASTE_LINKS": "Másoljon be HTTP vagy Mágnes linket",
 	"SEARCH_OR_PASTE_LINK": "Keressen vagy illesszen be linket",
 	"ADD_TO_LIB": "Hozzáadás a könyvtárhoz",
@@ -1420,4 +1425,4 @@
 	"FAQ_22_H1": "Nem látom/nem tudom használni a legtöbb kiegészítőt az iOS rendszeren",
 	"FAQ_22_P1": "Az Apple App Store általános szerződési feltételeiben foglalt korlátozások miatt az iOS-alkalmazást csak a kiegészítők egy adott készletére korlátoztuk.",
 	"FAQ_22_P2": "De megnyugodhat – a jövőben több iOS-kiegészítő lesz, és egy olyan integrációt is hozzáadhatunk, amely lehetővé teszi az összes Stremio-kiegészítő használatát, köszönhetően az iOS-alkalmazásnak a Stremio Streaming Serverhez való csatlakoztatásának."
-  }
+}
